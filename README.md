@@ -1,6 +1,6 @@
 # Hangman
 
-**Hangman** is a demo library for educational purposes.
+**Hangman** is a demo game for .
 
 MIPT Course homework on Software Design, Fall 2017.
 
